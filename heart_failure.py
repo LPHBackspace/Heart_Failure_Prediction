@@ -20,7 +20,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.metrics import confusion_matrix
 
 
-df_heart_failure = pd.read_csv('/content/drive/MyDrive/heart_failure/heart_failure_clinical_records_dataset.csv', usecols={'age', 'anaemia', 'creatinine_phosphokinase', 'diabetes', 'ejection_fraction', 'high_blood_pressure', 'platelets', 'serum_creatinine', 'serum_sodium', 'sex', 'smoking',	'time', 'DEATH_EVENT'})
+df_heart_failure = pd.read_csv('Heart failure file path', usecols={'age', 'anaemia', 'creatinine_phosphokinase', 'diabetes', 'ejection_fraction', 'high_blood_pressure', 'platelets', 'serum_creatinine', 'serum_sodium', 'sex', 'smoking',	'time', 'DEATH_EVENT'})
 df_heart_failure
 
 df_heart_failure.info()
