@@ -16,4 +16,4 @@ Projeto que busca prever casos de parada cardiaca com base nos dados fornecidos,
 - Preparar dados de treino e teste
 
 - Matriz de confusão
-<img src="https://github.com/LPHBackspace/Heart_Failure_Prediction/blob/main/project_images/outliers.PNG">
+<img src="https://github.com/LPHBackspace/Heart_Failure_Prediction/blob/main/project_images/matriz.PNG">
